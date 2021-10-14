@@ -8,8 +8,8 @@ If you use GoogleSpreadSheets as the database on GoogleAppsScript, can be writte
 
 # Installation
 
-Project ID: `MAoZrMsylZMiNUMljU4QtRHEMpGMKinCk`  
-Resources > Libraries... > Input Project ID `MAoZrMsylZMiNUMljU4QtRHEMpGMKinCk` in Find a Library > Select
+Project ID: `106MwwH6qmr0qZxsnlSGNLJPaUxTJKpWB4raKVbcnu0imnyJaOM5sJ7xy`  
+Resources > Libraries... > Input Project ID `106MwwH6qmr0qZxsnlSGNLJPaUxTJKpWB4raKVbcnu0imnyJaOM5sJ7xy` in Find a Library > Select
 
 
 # Usase
@@ -28,9 +28,12 @@ Available Data Types: `Number`, `String`, `Boolean`
 
 ```
 var id = 'SpreadSheets ID';
-var name = 'SpreadSheets SheetName';
+var name = 'SpreadSheets SheetName';// by default of docs.google.com it is "Sheet1"
 
 SpreadSheetsSQL.open(id, name)
+
+
+
 ```
 
 ### Get row
