@@ -18,6 +18,10 @@ GoogleSpreadSheets as the database
 Like [this GoogleSpreadSheets](https://docs.google.com/spreadsheets/d/10NljB1tiNZ_1SE4zgiaQv-ATZ-DhWtC9BIK4pGm-g6g/pubhtml?gid=0&single=true)
 
 Write the column names in the first row.  
+> To create and fix a header row in Google Sheets, you can follow these steps:
+> 1. Open the Google Spreadsheet.
+> 2. Click on the **View** menu.
+> 3. Select **Freeze** rows from the dropdown menu.
 Write the data in second ~ n rows.
 
 Available Data Types: `Number`, `String`, `Boolean`
