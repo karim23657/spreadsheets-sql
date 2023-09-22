@@ -22,6 +22,7 @@ Write the column names in the first row.
 > 1. Open the Google Spreadsheet.
 > 2. Click on the **View** menu.
 > 3. Select **Freeze** rows from the dropdown menu.
+
 Write the data in second ~ n rows.
 
 Available Data Types: `Number`, `String`, `Boolean`
